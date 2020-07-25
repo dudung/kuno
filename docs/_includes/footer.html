@@ -1,22 +1,6 @@
 <nav>
-	<object data="{{ site.baseurl }}/assets/img/physics.svg" type="image/svg+xml"></object><br />
-	{% for item in site.data.navigation %}
-    <a href="{{ site.baseurl }}{{ item.link }}"
-			{% if page.url == item.link %}
-				class="current"
-			{% endif %}
-		>
-      {{ item.name }}
-			{% if forloop.index < forloop.length %}
-			&nbsp; | &nbsp;
-			{% endif %}			
-    </a>
-  {% endfor %}
-	
-	
+	<br clear="all">
 	<div class="citation">
-	Cite as
-	S. Viridi, "{{ page.title }}" in 
-	url <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a>
+	Cite as: S. Viridi, "{{ page.title }}" in <i>fisika -- physics in plain text</i>, Jul 2020,	url <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a>
 	</div>
 </nav>
