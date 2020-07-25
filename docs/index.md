@@ -1,9 +1,9 @@
 ---
 layout: default
-title: butiran
+title: fisika
 ---
 
-# butiran-blog
+# fisika
 <p style="font-family: monospace">
 {% assign pad0 = '00' %}
 {% assign n = pad0 | size %}
