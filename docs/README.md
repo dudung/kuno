@@ -1,2 +1,2 @@
 # docs
-blog for butiran
+blog for physics
