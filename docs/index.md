@@ -16,6 +16,9 @@ title: fisika
 	{% assign k = d.first | replace: "-", "" %}
 	[{{ j }}]
 	<a href="{{ site.baseurl }}{{ post.url }}">
-		{{ post.date | date: "%d-%b" }} {{ post.title }}</a>,
+		{% comment %}
+		{{ post.date | date: "%d-%b" }}
+		{% endcomment %}
+		{{ post.title }}</a>{% if j == "00" %}.{% else %},{% endif %}
 {% endfor %}
 </p>
