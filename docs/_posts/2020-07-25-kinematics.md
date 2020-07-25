@@ -1,14 +1,14 @@
 ---
 layout: post
 author: viridi
-title: Kinematika
+title: kinematika
 mathjax: true
 ptext: false
 x3dom: false
 threejs: false
-category: physics
-tags: ["idea"]
-date: 2020-07-25 19:44:00 +07
-permalink: kinematics
+category: dynamics
+tags: ["dynamics"]
+date: 2020-07-25 21:24:00 +07
+permalink: dynamics
 ---
-Test page for kinematics
+Penyebab perubahan keadaan gerak bendan (momentum)
