@@ -1,0 +1,23 @@
+<nav>
+	<object data="{{ site.baseurl }}/assets/img/physics.svg" type="image/svg+xml"></object><br />
+	{% for item in site.data.navigation %}
+    <a href="{{ site.baseurl }}{{ item.link }}"
+			{% if page.url == item.link %}
+				class="current"
+			{% endif %}
+		>
+      {{ item.name }}
+			{% if forloop.index < forloop.length %}
+			&nbsp; | &nbsp;
+			{% endif %}			
+    </a>
+  {% endfor %}
+	
+	
+	<div class="citation">
+	Cite as
+	S. Viridi, "{{ page.title }}" in 
+	url {{ site.url }}{{ site.baseurl }}
+	{{ page.url }}
+	</div>
+</nav>
