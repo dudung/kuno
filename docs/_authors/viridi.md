@@ -1,7 +1,7 @@
 ---
 short_name: viridi
 name: Sparisoma Viridi
-position: Creator and project leader
+position: creator and project leader
 ---
 
-Viridi is a granular physicist that like programming and can be contacted at [Github](https://github.com/dudung).
+**Sparisoma Viridi** is a granular physicist that like programming and can be contacted at [Github](https://github.com/dudung). He works now in Department of Phyics, Institut Teknologi Bandung, Indonesia.

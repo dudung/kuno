@@ -1,4 +1,4 @@
-exclude: [cmd.lnk, README.md, setup.md, configure.md, livereload.md, cmd-ruby-x64.lnk, cmd-ruby-x86.lnk]
+exclude: [README.md, cmd-ruby-x64.lnk, cmd-ruby-x86.lnk]
 
 collections:
   authors:
