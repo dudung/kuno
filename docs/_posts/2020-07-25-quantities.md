@@ -54,7 +54,7 @@ A = pl,
 dengan panjang $p$ dan lebar $l$. Untuk bentuk geometri yang lain akan memiliki rumusan yang berbeda dengan Eqn. \eqref{eqn:area}.
 
 ### Laju alir volumetrik
-Debit atau laju alir volumetrik dapat diperoleh melalui [[4](#ref4)]
+Debit atau laju alir volumetrik dapat diperoleh melalui [[3](#ref3)]
 
 \begin{equation}
 \label{eqn:volumetric-flow-rate}
@@ -89,7 +89,7 @@ Dengan demikian dapat dilacak dengan mudah satuan dari $Q$, dengan mengetahui sa
 
 
 ## Persepsi baru
-Terdapat persepsi lain mengenai besaran pokok, yang tidak didefinisikan, sementara besaran turunan didefinisikan berdasarkan besaran pokok tersebut [[3](#ref3)].
+Terdapat persepsi lain mengenai besaran pokok, yang tidak didefinisikan, sementara besaran turunan didefinisikan berdasarkan besaran pokok tersebut [[4](#ref4)]. Untuk itu telah terdapat tujuh konstanta yang menjadi besaran pokok baru SI, yaitu frekuensi, kecepatan, aksi, muatan listrik, kapasitas panas, jumlah zat, dan intensitas cahaya [[5](#ref5)].
 
 
 ## Latihan
@@ -100,12 +100,13 @@ Terdapat persepsi lain mengenai besaran pokok, yang tidak didefinisikan, sementa
 5. Tuliskan silsilah besaran daya $P$ melalui energi kinetik, massa, kecepatan, posisi, waktu dan gaya, kecepatan.
 6. Tuliskan silsilah besaran daya $P$ melalui arus dan tegangan listrik, energi listrik dan muatan, serta arus listrik dan waktu.
 7. Bandingkan kedua silsilah untuk memperoleh daya $P$ tersebut.
-8. 
+8. Bacalah mengenai tujuh besaran pokok baru SI [[5](#ref5)] dan buatlah tabel yang membandingkan ketujuh besaran pokok sebelumnya dan besaran pokok baru ini.
+
 
 ## Referensi
 1. <a name="ref1"></a>-, "SI base units" in the NIST Reference ofn Constants, Units, and Uncertainty, National Institute of Standards and Technology, U.S. Department of Commernce, 
 Gaithersburg, url <https://physics.nist.gov/cuu/Units/units.html> [20200726].
 2. <a name="ref2"></a>-, "9.1 Physical Quantities & Units", WikiLecture, 16 Sep 2015, url <https://www.wikilectures.eu/w/9.1_Physical_Quantities_&_Units> [2020726].
-3. <a name="ref3"></a>Dmytro Taranovsky, "Physical Quantities", Massachusetts Institute of Technology, 25 Mar 2000, url <http://web.mit.edu/dmytro/www/other/PhysicalQuantities.htm> [20200726].
-4. <a name="ref4"></a>Wikipedia contributors, "Volumetric flow rate", Wikipedia, The Free Encyclopedia, 26 Jun 2020, 11:24 UTC, url <https://en.wikipedia.org/w/index.php?oldid=964588105> [20200726].
-5. David Newell, "A more fundamental International System of Units", 
+3. <a name="ref3"></a>Wikipedia contributors, "Volumetric flow rate", Wikipedia, The Free Encyclopedia, 26 Jun 2020, 11:24 UTC, url <https://en.wikipedia.org/w/index.php?oldid=964588105> [20200726].
+4. <a name="ref4"></a>Dmytro Taranovsky, "Physical Quantities", Massachusetts Institute of Technology, 25 Mar 2000, url <http://web.mit.edu/dmytro/www/other/PhysicalQuantities.htm> [20200726].
+5. <a name="ref5"></a>David Newell, "A more fundamental International System of Units", Physics Today, vol. 67, no. 5, pp. 35-41, Jul 2014, url <https://doi.org/10.1063/PT.3.2448>
