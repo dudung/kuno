@@ -3,9 +3,11 @@ layout: post
 author: viridi
 title: besaran dan satuan
 mathjax: true
+chartjs: false
 ptext: false
 x3dom: false
 threejs: false
+3dmol: false
 category: quantities
 tags: ["quantities", "units"]
 date: 2020-07-25 19:44:00 +07
