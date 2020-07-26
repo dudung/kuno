@@ -2,8 +2,8 @@
 layout: default
 title: About
 ---
-# physics
-It a project about physics in plain text
+# fisika
+It a project about fisika -- <i>physics in plain text</i> (id)
 
 ### Contributor
 <ul>
