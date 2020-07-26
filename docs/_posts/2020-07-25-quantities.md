@@ -64,7 +64,7 @@ Q = vA,
 dengan laju alir $v$ dan luas penampang $A$ telah memiliki arah sejajar, atau $v$ berarah tegak lurus menembus $A$. Satuan dari debit dalam Eqn. \eqref{eqn:volumetric-flow-rate} adalah m$^3$/s.
 
 ### Silsilah besaran
-Dengan menggunakan lambang $x, y, z$ untuk posisi dan $t$ untuk waktu dapat dituliskan semacam silsilah dari Eqn. \eqref{eqn:velocity}-\eqref{eqn:volumetric-flow-rate} seperti dalam Fig 1, yang menggambarkan penggunaan besaran-besaran pokok (dan juga besaran-besaran turunan) dalam besaran-besaran turunan (berikutnya).
+Dengan menggunakan lambang $x, y, z$ untuk posisi dan $t$ untuk waktu dapat dituliskan semacam silsilah dari Eqns. \eqref{eqn:velocity}-\eqref{eqn:volumetric-flow-rate} seperti dalam Fig 1, yang menggambarkan penggunaan besaran-besaran pokok (dan juga besaran-besaran turunan) dalam besaran-besaran turunan (berikutnya).
 
 ```batch
 t1 ──┐
@@ -96,7 +96,11 @@ Terdapat persepsi lain mengenai besaran pokok, yang tidak didefinisikan, sementa
 1. Bila saat $t_1$ benda berada pada posisi $x_1$ dan saat $t_2$ berada posisi $x_2$, tuliskanlah persamaan-persamaan untuk menghitung kecepatan rata-rata dan laju rata-rata dalam selang waktu $t_1 \le t \le t_2$.
 2. Bila saat $t_1$ diketahui kecepatan sesaat $v_1$ dan demikian pula untuk saat $t_2$ dan $t_3$. Tuliskanlah rata-rata kecepatan untuk ketiga waktu tersebut.
 3. Terdapat suatu pipa dengan penampang berbentuk elips dengan jari-jari $r_1$ dan $r_2$. Tuliskan persamaan untuk memperoleh luas penampang pipa tersebut.
-
+4. Bagaimana cara untuk memperoleh besaran turunan massa jenis atau rapat massa $\rho$? Tuliskan perumusannya dan silsilah besarannya.
+5. Tuliskan silsilah besaran daya $P$ melalui energi kinetik, massa, kecepatan, posisi, waktu dan gaya, kecepatan.
+6. Tuliskan silsilah besaran daya $P$ melalui arus dan tegangan listrik, energi listrik dan muatan, serta arus listrik dan waktu.
+7. Bandingkan kedua silsilah untuk memperoleh daya $P$ tersebut.
+8. 
 
 ## Referensi
 1. <a name="ref1"></a>-, "SI base units" in the NIST Reference ofn Constants, Units, and Uncertainty, National Institute of Standards and Technology, U.S. Department of Commernce, 
@@ -104,4 +108,4 @@ Gaithersburg, url <https://physics.nist.gov/cuu/Units/units.html> [20200726].
 2. <a name="ref2"></a>-, "9.1 Physical Quantities & Units", WikiLecture, 16 Sep 2015, url <https://www.wikilectures.eu/w/9.1_Physical_Quantities_&_Units> [2020726].
 3. <a name="ref3"></a>Dmytro Taranovsky, "Physical Quantities", Massachusetts Institute of Technology, 25 Mar 2000, url <http://web.mit.edu/dmytro/www/other/PhysicalQuantities.htm> [20200726].
 4. <a name="ref4"></a>Wikipedia contributors, "Volumetric flow rate", Wikipedia, The Free Encyclopedia, 26 Jun 2020, 11:24 UTC, url <https://en.wikipedia.org/w/index.php?oldid=964588105> [20200726].
-
+5. David Newell, "A more fundamental International System of Units", 
