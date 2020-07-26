@@ -1,7 +1,7 @@
 ---
 layout: post
 author: viridi
-title: Gerak lurus beraturan
+title: gerak lurus beraturan
 mathjax: true
 chartjs: false
 ptext: false
