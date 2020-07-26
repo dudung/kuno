@@ -63,7 +63,30 @@ Q = vA,
 
 dengan laju alir $v$ dan luas penampang $A$ telah memiliki arah sejajar, atau $v$ berarah tegak lurus menembus $A$. Satuan dari debit dalam Eqn. \eqref{eqn:volumetric-flow-rate} adalah m$^3$/s.
 
-### 
+### Silsilah besaran
+Dengan menggunakan lambang $x, y, z$ untuk posisi dan $t$ untuk waktu dapat dituliskan semacam silsilah dari Eqn. \eqref{eqn:velocity}-\eqref{eqn:volumetric-flow-rate} seperti dalam Fig 1, yang menggambarkan penggunaan besaran-besaran pokok (dan juga besaran-besaran turunan) dalam besaran-besaran turunan (berikutnya).
+
+```batch
+t1 ──┐
+     ├── Δt ──┐
+t2 ──┘        │
+              ├── v ──┐
+x1 ──┐        │       │
+     ├── Δx ──┘       │
+x2 ──┘                │
+                      ├── Q
+y1 ──┐                │
+     ├── Δy ──┐       │
+y2 ──┘        │       │
+              ├── A ──┘
+z1 ──┐        │
+     ├── Δz ──┘
+z2 ──┘
+```
+Fig 1 Silsilah besaran pokok dan turunan untuk debit $Q$.
+
+Dengan demikian dapat dilacak dengan mudah satuan dari $Q$, dengan mengetahui satuan dari $v$ dan $A$.
+
 
 ## Persepsi baru
 Terdapat persepsi lain mengenai besaran pokok, yang tidak didefinisikan, sementara besaran turunan didefinisikan berdasarkan besaran pokok tersebut [[3](#ref3)].
