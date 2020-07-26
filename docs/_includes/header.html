@@ -1,19 +1,37 @@
 <nav>
-	{% assign date = page.date | date_to_string %}
-	{% if date != null and date != "" %}
-	{% assign datestr = date | append: "," %}
+	{% if page.mathjax %}
+		<span class="mathjax_true">MathJax</span>
 	{% else %}
-	{% assign datestr = "" %}
+		<span class="inc_false">MathJax</span>
 	{% endif %}
 	
-	{% 
-		if page.title != "fisika"
-		and page.title != "About"
-		and page.title != "Viridi"
-	%}
-	<br clear="all">
-	<div class="citation">
-	Cite as: S. Viridi, "{{ page.title }}" in <i>fisika -- physics in plain text</i> (id), {{ datestr }} url <a href="{{ site.url }}{{ site.baseurl }}{{ page.url }}">{{ site.url }}{{ site.baseurl }}{{ page.url }}</a> [accessed {{ "now" | date: "%d %b %Y" }}].
+	{% if page.chartjs %}
+		<span class="chartjs_true">Chart.js</span>
+	{% else %}
+		<span class="inc_false">Chart.js</span>
 	{% endif %}
-	</div>
+	
+	{% if page.ptext %}
+		<span class="ptext_true">pText</span>
+	{% else %}
+		<span class="inc_false">pText</span>
+	{% endif %}
+	
+	{% if page.x3dom %}
+		<span class="x3dom_true">X3DOM</span>
+	{% else %}
+		<span class="inc_false">X3DOM</span>
+	{% endif %}
+	
+	{% if page.threejs %}
+		<span class="threejs_true">Three.js</span>
+	{% else %}
+		<span class="inc_false">Three.js</span>
+	{% endif %}
+	
+	{% if page.3dmol %}
+		<span class="_3dmol_true">3Dmol.js</span>
+	{% else %}
+		<span class="inc_false">3Dmol.js</span>
+	{% endif %}
 </nav>
