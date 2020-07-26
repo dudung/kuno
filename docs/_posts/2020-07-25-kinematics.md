@@ -6,9 +6,9 @@ mathjax: true
 ptext: false
 x3dom: false
 threejs: false
-category: dynamics
-tags: ["dynamics"]
+category: kinematics
+tags: ["kinematicscs"]
 date: 2020-07-25 21:24:00 +07
-permalink: dynamics
+permalink: kinematics
 ---
-Penyebab perubahan keadaan gerak bendan (momentum)
+Parameter gerak benda berupa posisi, kecepatan, dan percepatan
