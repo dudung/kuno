@@ -43,37 +43,165 @@ x_{1,2} = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a},
 ### Chart.js
 Diagram berikut
 
-<canvas id="myChart" width="400" height="400"></canvas>
 <script>
-var can = document.getElementById('myChart');
-can.width = "200px !important";
+var div0 = document.createElement("div");
+div0.style.border = "0px solid #f00";
+div0.style.justifyContent = "center";
+div0.style.display = "flex";
+
+var div1 = document.createElement("div");
+div1.style.border = "0px solid #000";
+div1.style.width = "500px";
+div1.style.height = "250px";
+
+var can = document.createElement("canvas");
 var ctx = can.getContext('2d');
 
+document.body.append(div0);
+div0.append(div1);
+div1.append(can);
+
 var scatterChart = new Chart(ctx, {
-    type: 'scatter',
-    data: {
-        datasets: [{
-            label: 'Scatter Dataset',
-            data: [
-							{ x: -10, y: 0 }, 
-							{ x: 0, y: 10 },
-							{ x: 10, y: 5 }
-						]
-        }]
-    },
-    options: {
-        scales: {
-            xAxes: [{
-                type: 'linear',
-                position: 'bottom'
-            }]
-        }
-    }
+	type: 'scatter',
+	data: {
+		datasets: [{
+			label: 'Dataset 1',
+			yAxisID: 'y-left',
+			data: [
+				{ x: -10, y: 0 },
+				{ x: -4, y: 5 },
+				{ x: 0, y: 10 },
+				{ x: 6, y: 3 },
+				{ x: 10, y: 5 },
+			],
+			showLine: true,
+			borderColor: "#f00",
+			borderWidth: 1,
+			fill: false,
+			pointBackgroundColor: "#ccf",
+			pointBorderColor: "#00f",
+			pointRadius: 4,
+			lineTension: 0.0,
+			pointHoverRadius: 6,
+		},]
+	},
+	options: {
+		scales: {
+			yAxes: [{
+				id: 'y-left',
+				type: 'linear',
+				position: 'left',
+				scaleLabel: {
+					display: true,
+					labelString: 'y',
+					fontStyle: 'italic',
+					fontFamily: 'Times New Roman',
+					fontSize: 18,
+				},
+				ticks: {
+					max: 10,
+					min: 0,
+					stepSize: 2,
+					fontSize: 12,
+				},
+			}],
+			xAxes: [{
+				id: 'x-bottom',
+				type: 'linear',
+				position: 'bottom',
+				scaleLabel: {
+					display: true,
+					labelString: 'x',
+					fontStyle: 'italic',
+					fontFamily: 'Times New Roman',
+					fontSize: 18,
+				},
+				ticks: {
+					stepSize: 2,
+					fontSize: 12,
+				},
+			}],
+		}
+	}
 });
 </script>
 
 dapat diperoleh dengan
 
+```javascript
+<script>
+var div0 = document.createElement("div");
+div0.style.border = "0px solid #f00";
+div0.style.justifyContent = "center";
+div0.style.display = "flex";
+
+var div1 = document.createElement("div");
+div1.style.border = "0px solid #000";
+div1.style.width = "500px";
+div1.style.height = "250px";
+
+var can = document.createElement("canvas");
+var ctx = can.getContext('2d');
+
+document.body.append(div0);
+div0.append(div1);
+div1.append(can);
+
+var scatterChart = new Chart(ctx, {
+	type: 'scatter',
+	data: {
+		datasets: [{
+			label: 'Dataset 1',
+			yAxisID: 'y-left',
+			data: [
+				{ x: -10, y: 0 },
+				{ x: -4, y: 5 },
+				{ x: 0, y: 10 },
+				{ x: 6, y: 3 },
+				{ x: 10, y: 5 },
+			],
+			showLine: true,
+			borderColor: "#f00",
+			borderWidth: 1,
+			fill: false,
+			pointBackgroundColor: "#ccf",
+			pointBorderColor: "#00f",
+			pointRadius: 4,
+			lineTension: 0.0,
+			pointHoverRadius: 6,
+		},]
+	},
+	options: {
+		scales: {
+			yAxes: [{
+				id: 'y-left',
+				type: 'linear',
+				position: 'left',
+				scaleLabel: {
+					display: true,
+					labelString: 'y',
+					fontStyle: 'italic',
+					fontFamily: 'Times New Roman',
+					fontSize: 18,
+				},
+			}],
+			xAxes: [{
+				id: 'x-bottom',
+				type: 'linear',
+				position: 'bottom',
+				scaleLabel: {
+					display: true,
+					labelString: 'x',
+					fontStyle: 'italic',
+					fontFamily: 'Times New Roman',
+					fontSize: 18,
+				},
+			}],
+		}
+	}
+});
+</script>
+```
 
 ### ptext
 Kurva berikut ini
@@ -124,6 +252,8 @@ dapat diperoleh dengan
 }
 </ptext>
 ```
+
+dengan rujukan ke Fig. <ptref>fig-siqnal-square</ptref>.
 
 ### X3DOM
 Visualisasi berikut
@@ -277,7 +407,7 @@ Visualisasi molekul berikut ini
 
 Fig 1 Contoh molekul 1YCR dalam 3Dmol viewer.
 
-dipeorleh dengan
+diperoleh dengan
 
 ```javascript
 <div
@@ -299,5 +429,8 @@ dipeorleh dengan
 ```
 
 ## Referensi
-1. <a name="ref1"></a> "3Dmol.js", url https://3dmol.csb.pitt.edu [20200609].
-(https://threejs.org/docs/).
+1. <a name="ref1"></a>url <https://www.chartjs.org/docs/latest/> [20200726].
+2. <a name="ref2"></a>url <https://threejs.org/docs/> [20200726].
+3. <a name="ref3"></a>url <https://3dmol.csb.pitt.edu> [20200609].
+
+
