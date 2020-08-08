@@ -17,7 +17,7 @@ Posisi, posisi relatif, perpindahan, jarak
 Dalam pembahasan ini digunakan sistem koordinat kartesian dimensi-satu (1-D) dengan variabel $x$. Pusat koordinat ditandai dengan nilai $x = 0$. Umumnya sebelah kanan pusat koordinat adalah nilai positif atau $x > 0$ dan sebelah kirinya adalah nilai negatif atau $x < 0$. Konvensi ini akan digunakan kecuali diberikan keterangan lain. Dalam sistem satuan internasional (SI), variabel $x$ dinyatakan dalam meter atau dapat disingkat $\rm m$.
 
 ## Posisi
-Bila digunakan satuan meter untuk posisi, suatu benda $\rm A$ yang berada tujuh satuan di sebelah kanan pusat koordinat akan memiliki posisi yang dinyatakan dengan $x_A = 7 \ {\rm m}$, dan benda $\rm B$ yang berada sembilan satuan di sebelah kiri pusat koordinat akan memiliki posisi yang dinyatakan dengan $x_B = -9 \ {\rm m}$. Posisi merupakan besaran vektor sehingga tandanya berperan menunjukkan arah yang dinyatakan dari pusat koordinat.
+Bila digunakan satuan meter untuk posisi, suatu benda $\rm A$ yang berada tujuh satuan di sebelah kanan pusat koordinat akan memiliki posisi yang dinyatakan dengan $x_A = 7 \ \rm m$, dan benda $\rm B$ yang berada sembilan satuan di sebelah kiri pusat koordinat akan memiliki posisi yang dinyatakan dengan $x_B = -9 \ \rm m$. Posisi merupakan besaran vektor sehingga tandanya berperan menunjukkan arah yang dinyatakan dari pusat koordinat.
 
 Terdapat berbagai cara menyatakan posisi suatu benda $\rm A$ pada saat tertentu $t$, seperti
 
@@ -52,18 +52,18 @@ x_{PO} = x_P - x_O,
 
 dengan $x_P$ adalah benda $\rm P$ dan $x_O$ adalah posisi benda $\rm O$.
 
-Benda $\rm A$ memiliki posisi $x_A = 20 \ {\rm m}$ dan benda $\rm B$ memiliki posisi $x_B = 15 \ {\rm m}$. Posisi relatif benda $\rm A$ terhadap benda $\rm B$ adalah
+Benda $\rm A$ memiliki posisi $x_A = 20 \ \rm m$ dan benda $\rm B$ memiliki posisi $x_B = 15 \ \rm m$. Posisi relatif benda $\rm A$ terhadap benda $\rm B$ adalah
 
 \begin{equation}
 \nonumber
-x_{AB} = x_A - x_B = 20 \ {\rm m} - 15 \ {\rm m} = 5 \ {\rm m}
+x_{AB} = x_A - x_B = 20 \ \rm m - 15 \ \rm m = 5 \ \rm m
 \end{equation}
 
 dan posisi relatif benda $\rm B$ terhadap benda $\rm A$ adalah
 
 \begin{equation}
 \nonumber
-x_{BA} = x_B - x_A = 15 \ {\rm m} - 20 \ {\rm m} = -5 \ {\rm m}.
+x_{BA} = x_B - x_A = 15 \ \rm m - 20 \ \rm m = -5 \ \rm m.
 \end{equation}
 
 Posisi relatif, sebagaimana posisi, juga merupakan besaran vektor. Akan tetapi tanda pada posisi relatif menyatakan arah dari titik acuan, sedangkan pada posisi tanda menyatakan arah dari pusat koordinat. Atau dengan kata lain dapat dinyatakan bahwa posisi adalah posisi relatif dengan titik acuannya adalah pusat koordinat.
@@ -113,12 +113,14 @@ Perhatikan bagaimana penggunaan indeks pada Persamaan \eqref{eqn:position-displa
 ## Latihan
 1. Berikan contoh kapan sebaiknya digunakan Persamaan \eqref{eqn:position}, \eqref{eqn:position-tn}, dan \eqref{eqn:position-tn-xm}.
 2. Dengan menggunakan satuan m untuk posisi, benda $\rm A$ berada emmpat satuan di sebelah kanan pusat koordinat sedangkan benda $\rm B$ berada delapan satuan di sebelah kiri pusat koordinat. Nyatakanlah posisi kedua benda dengan variabel $x_A$ dan $x_B$.
-3. Tedapat benda $\rm P$ dan $\rm Q$ yang masing-masing memiliki posisi $x_P = 2 \ {\rm m}$ dan $x_Q = -4 \ {\rm m}$. Tentukanlah posisi relatif benda $\rm Q$ terhadap benda $\rm P$. Gunakan Persamaan \eqref{eqn:position-relative}.
-4. Bila posisi relatif benda $\rm A$ terhadap benda $\rm B$ adalah $-10 \ {\rm m}$ dan posisi benda $\rm A$ adalah $x_A = 2 \ {\rm m}$, tentukanlah posisi benda $\rm B$.
-5. Suatu benda $\rm Q$ saat $t = 2 \ {\rm s}$ berada pada posisi $x(2) = 10 \ {\rm m}$ dan saat $t = 4 \ {\rm s}$ berada pada posisi $x(4) = 25 \ {\rm m}$. Tentukanlah perpindahan benda itu antara waktu $2 \ {\rm s}$ dan $4 \ {\rm s}$.
+3. Tedapat benda $\rm P$ dan $\rm Q$ yang masing-masing memiliki posisi $x_P = 2 \ \rm m$ dan $x_Q = -4 \ \rm m$. Tentukanlah posisi relatif benda $\rm Q$ terhadap benda $\rm P$. Gunakan Persamaan \eqref{eqn:position-relative}.
+4. Bila posisi relatif benda $\rm A$ terhadap benda $\rm B$ adalah $-10 \ \rm m$ dan posisi benda $\rm A$ adalah $x_A = 2 \ \rm m$, tentukanlah posisi benda $\rm B$.
+5. Suatu benda $\rm Q$ saat $t = 2 \ \rm s$ berada pada posisi $x(2) = 10 \ \rm m$ dan saat $t = 4 \ \rm s$ berada pada posisi $x(4) = 25 \ \rm m$. Tentukanlah perpindahan benda itu antara waktu $2 \ \rm s$ dan $4 \ \rm s$.
 6. Jelaskan dengan menggunakan contoh perbedaan konsep antara posisi relatif dan perpindahan pada Persamaan \eqref{eqn:position-relative-distance} dan \eqref{eqn:position-displacement-distance} Gunakan notasi yang memudahkan.
-7. Tentukan jarak yang ditempuh benda $\rm P$ bila saat $t = 2 \ {\rm s}$ berada pada posisi $x(2) = 4 \ {\rm m}$, saat $t = 4 \ {\rm s}$ berada pada posisi $x(4) = 10 \ {\rm m}$, dan saat $t = 6 \ {\rm s}$ berada pada posisi $x(6) = 1 \ {\rm m}$. Gunakan Persamaan \eqref{eqn:position-displacement-distance-velocities}.
+7. Tentukan jarak yang ditempuh benda $\rm P$ bila saat $t = 2 \ {\rm s}$ berada pada posisi $x(2) = 4 \ \rm m$, saat $t = 4 \ \rm s$ berada pada posisi $x(4) = 10 \ \rm m$, dan saat $t = 6 \ \rm s$ berada pada posisi $x(6) = 1 \ \rm m$. Gunakan Persamaan \eqref{eqn:position-displacement-distance-velocities}.
 8. Saat $t_1 = 0 \ \rm s$ benda $\rm A$ berada pada posisi $3 \ \rm m$ dan benda $\rm B$ berada pada posisi $4 \ \rm m$. Kemudian saat $t_2 = 2 \ \rm s$ kedua benda berada pada posisi berturut-turut $ 10 \ \rm m$ dan $5 \ \rm m$. Hitunglah posisi relatif benda $\rm A$ terhadap benda $\rm B$ pada kedua waktu tersebut. Gunakan notasi yang paling memudahkan.
+9. Dengan menggunakan data pada soal sebelumnya tentukanlah perpindahan dan jarak yang ditempuh masing-masing pada pada selang waktu tersebut.
+10. Terdapat dua buah benda, $\rm A$ dan $\rm B$, yang bergerak dari dari posisi awal masing-masing ke posisi akhir masing-masing dengan waktu pada kedua keadaan tersebut adalah $t_1$ dan $t_2$. Bila perpindahan benda pertama adalah negatif perpindahan benda kedua, hitunglah posisi relatif benda pertama terhadap benda kedua dan juga posisi relatif benda kedua terhadap benda pertama saat $t_1$ dan $t_2$. Ungkapkan bila terdapat suatu hal yang menarik.
 
 ## Catatan
-10. 2020-08-09 2nd version, 2020-08-08 1st version.
+10. 09 2nd, 2020-08-08 1st version.
