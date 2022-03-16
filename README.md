@@ -10,3 +10,12 @@ Physics in plain text
 \begin{equation}
 y = ax^2 + bx + c
 \end{equation}
+
+### test mermaid
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
