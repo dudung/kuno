@@ -25,6 +25,7 @@ y = ax^2 + bx + c
 ```
 
 ### test xhub
+```chartjs
 {
   "config": {
     "type": "line",
@@ -66,7 +67,9 @@ y = ax^2 + bx + c
     }
   }
 }
+```
 
+```plotly
 {
   "data": [
     {
@@ -133,3 +136,4 @@ y = ax^2 + bx + c
     }
   }
 }
+```
