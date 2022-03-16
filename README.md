@@ -15,6 +15,10 @@ y = ax^2 + bx + c
 y = ax^2 + bx + c
 ```
 
+\begin{equation}
+y = ax^2 + bx + c
+\end{equation}
+
 ### test mermaid
 ```mermaid
   graph TD;
