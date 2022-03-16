@@ -11,6 +11,10 @@ Physics in plain text
 y = ax^2 + bx + c
 \end{equation}
 
+```math
+y = ax^2 + bx + c
+```
+
 ### test mermaid
 ```mermaid
   graph TD;
