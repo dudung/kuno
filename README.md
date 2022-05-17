@@ -1,5 +1,6 @@
 # note
-write a note in android with markdown, mathjax, mermaid, .. and save it to github
+write a note in android with [markdown](https://github.com/markdown-it/markdown-it), [mathjax](https://github.com/mathjax/MathJax), [mermaid](https://github.com/mermaid-js/mermaid), .. and save it to [github](https://github.com/).
+
 
 ## journey
 + `00-may-22` uninstall [zettel notes](https://github.com/damionx7/Zettel-Notes-Documentation/), [viper edit](https://github.com/maks/viper-edit), [obsidian](https://github.com/obsidianmd/obsidian-releases), [markor](https://github.com/gsantner/markor), [github mobile](https://github.com/mobile), ..
