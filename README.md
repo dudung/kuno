@@ -11,8 +11,8 @@ write a note in android with [markdown](https://github.com/markdown-it/markdown-
 + `17-may-22` use [epsilon notes](https://github.com/ekartoyev/epsilonnotes) and [mgit](https://github.com/maks/MGit) &rightarrow; now being tested
   ```mermaid
   graph LR
-  A[[GitHub]];
+  A([GitHub]);
   B[MGit];
-  C[Epsilon Notes];
+  C[/Epsilon Notes/];
   A ===> B ===> C ---> B ---> A
   ```
