@@ -2,7 +2,7 @@
 write a note in android with markdown, mathjax, mermaid, .. and save it to github
 
 ## journey
-+ uninstall [zettel notes](https://github.com/damionx7/Zettel-Notes-Documentation/), [viper edit](https://github.com/maks/viper-edit), [obsidian](https://github.com/obsidianmd/obsidian-releases), [markor](https://github.com/gsantner/markor), github ..
++ uninstall [zettel notes](https://github.com/damionx7/Zettel-Notes-Documentation/), [viper edit](https://github.com/maks/viper-edit), [obsidian](https://github.com/obsidianmd/obsidian-releases), [markor](https://github.com/gsantner/markor), [github mobile](https://github.com/mobile), ..
 + download, install, and uninstall [inkdrop](https://github.com/inkdropapp/releases) &rightarrow; not yet interested forced-to-pay scheme
 + use [gitjournal](https://github.com/GitJournal/GitJournal) &rightarrow; can not control modification date
 + use [joplin](https://github.com/laurent22/joplin) and share with [gitjournal](https://github.com/GitJournal/GitJournal) &rightarrow; not comfortable with notebook and not practice in re-editing then re-sharing note
