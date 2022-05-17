@@ -13,6 +13,6 @@ write a note in android with [markdown](https://github.com/markdown-it/markdown-
   graph LR
   A([GitHub]);
   B[MGit];
-  C[/Epsilon Notes/];
-  A ===> B ===> C ---> B ---> A
+  C[/Epsilon<br>Notes/];
+  A --> B --> C --> B --> A
   ```
