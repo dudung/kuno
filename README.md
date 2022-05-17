@@ -1,5 +1,5 @@
 # note
-note in android with markdown, mathjax, mermaid, ..
+write a note in android with markdown, mathjax, mermaid, .. and save it to github
 
 ## journey
 + use [gitjournal](https://github.com/GitJournal/GitJournal) &rightarrow; can not control modification date 
