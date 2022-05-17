@@ -9,3 +9,10 @@ write a note in android with [markdown](https://github.com/markdown-it/markdown-
 + `15-may-22` use [joplin](https://github.com/laurent22/joplin) and share with [gitjournal](https://github.com/GitJournal/GitJournal) &rightarrow; not comfortable with notebook and not practice in re-editing then re-sharing note
 + `16-may-22` use [epsilon notes](https://github.com/ekartoyev/epsilonnotes) and share with [gitjournal](https://github.com/GitJournal/GitJournal) &rightarrow; not practice in re-editing then re-sharing note
 + `17-may-22` use [epsilon notes](https://github.com/ekartoyev/epsilonnotes) and [mgit](https://github.com/maks/MGit) &rightarrow; now being tested
+  ```mermaid
+  graph LR
+  A[GitHub];
+  B[MGit];
+  C[Epsilon Notes];
+  A ===> B ===> C ---> B ---> A
+  ```
