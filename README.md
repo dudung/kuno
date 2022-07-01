@@ -16,7 +16,7 @@ Elementary physics notes in Indonesian language with Markdown, Scalar Vector Gra
 flowchart LR
 	A01 --> A02 --> A05
   A03 --> A04 --> A05
-	A01( besaran<br>dan<br>satuan )
+	A01( besaran<br>& satuan )
 	A02( konversi<br>satuan )
 	A03( angka<br>berarti )
 	A04( notasi<br>ilmiah )
