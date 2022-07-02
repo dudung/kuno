@@ -2,7 +2,7 @@
 Konversi suatu satuan menjadi satuan lain dapat memanfaatkan teknis analisis dimensi [1].
 
 ## conversion factor
-Faktor konversi $\rm CF$ diperoleh dengan membandingkan satuan tujuan $\rm Y$ dengan satuan asal $\rm X$
+Faktor konversi $\textrm{CF}$ diperoleh dengan membandingkan satuan tujuan $Y$ dengan satuan asal $X$
 
 $$
 {\rm CF} = \frac{Y}{X}.
