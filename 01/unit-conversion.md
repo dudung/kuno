@@ -20,7 +20,8 @@ Substutsi rumusan faktor konversi $\textrm{CF}$ dalam persamaan sebelumnya akan 
 $$
 \frac{y}{Y} = \frac{x}{X}
 $$
- yang menggambarkan nilai-nilai yang dinyatakan dalam satuannya masing-masing.
+
+yang menggambarkan nilai-nilai yang dinyatakan dalam satuannya masing-masing.
 
 
 ## notes
