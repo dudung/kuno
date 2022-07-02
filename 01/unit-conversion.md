@@ -28,7 +28,7 @@ Untuk mencari faktor konversi sebaliknya dapat dilakukan dengan menukar $x \left
 
 
 ## one
-Faktor konversi dapat pula diperoleh melaui perbandingan antara dua satuan yang berbeda
+Secara umum faktor konversi dapat diperoleh melaui perbandingan antara dua satuan yang berbeda
 
 $$
 1 = \frac{X}{Y}
@@ -41,6 +41,7 @@ $$
 $$
 
 yang keduanya memberikan nilai satu.
+
 
 ## conversion
 Konversi dari satu satuan asal $X$ ke satuan tujuan $Y$ dilakukan dengan mengalikan nilai asal $x$ dengan angka $1$ yang menghasilkan satuan tujuan.
