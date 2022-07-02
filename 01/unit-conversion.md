@@ -11,8 +11,6 @@ $$
 yang menggambarkan nilai-nilai yang dinyatakan dalam satuannya masing-masing.
 
 
-
-
 ## conversion factor
 Dengan membandingkan satuan tujuan $Y$ dengan satuan asal $X$ dapat diperoleh faktor konversi
 
@@ -25,6 +23,8 @@ yang digunakan untuk mengubah $x \ X$ menjadi $y \ Y$ melalui
 $$
 y = \textrm{CF} \ x.
 $$
+
+Untuk mencari faktor konversi sebaliknya dapat dilakukan dengan menukar $x \rightleftarray y$ dan $X \rightleftarray Y$.
 
 ## notes
 1. <a name='ref1'></a>Metric Program, "Unit Conversion", National Institute of Standards and Technology, US Department of Commerce, 28 Sep 2021, url <https://www.nist.gov/pml/weights-and-measures/metric-si/unit-conversion> [20220702]
