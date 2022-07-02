@@ -2,7 +2,7 @@
 Konversi suatu satuan menjadi satuan lain dapat memanfaatkan teknis analisis dimensi [1].
 
 ## example
-Terdapat nilai $x \ {\rm X}$. Nyatakan dalam satuan ${\rm Y}$.
+Terdapat nilai $x \ {\rm X}$. Nyatakan nilai $x$ dalam satuan ${\rm Y}$.
 
 $$
 Y = X
