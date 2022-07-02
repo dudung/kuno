@@ -18,7 +18,7 @@ $$
 {\rm CF} = \frac{Y}{X},
 $$
 
-yang digunakan untuk mengubah $x \ X$ menjadi $y \ Y$ melalui
+yang digunakan untuk mengubah $x$ dalam satuan $X$ menjadi $y$ dalam satuan $Y$ melalui
 
 $$
 y = \textrm{CF} \ x.
