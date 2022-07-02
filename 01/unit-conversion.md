@@ -1,11 +1,11 @@
 # unit conversion
 Konversi suatu satuan menjadi satuan lain dapat memanfaatkan teknis analisis dimensi [1].
 
-## example
-Terdapat nilai $x \ \rm X$. Nyatakan nilai $x$ dalam satuan $Y$.
+## conversion factor
+Faktor konversi $\rm CF$ diperoleh dengan membandingkan satuan tujuan $\rm Y$ dengan satuan asal $\rm X$
 
 $$
-Y = X
+{\rm CF} = \frac{Y}{X}.
 $$
 
 ## notes
