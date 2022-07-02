@@ -26,5 +26,29 @@ $$
 
 Untuk mencari faktor konversi sebaliknya dapat dilakukan dengan menukar $x \leftrightarrow y$ dan $X \leftrightarrow Y$.
 
+
+## one
+Faktor konversi dapat pula diperoleh melaui perbandingan antara dua satuan yang berbeda
+
+$$
+1 = \frac{X}{Y}
+$$
+
+dan
+
+$$
+1 = \frac{Y}{X}
+$$
+
+yang keduanya memberikan nila satu.
+
+## conversion
+Konversi dari satu satuan asal $X$ ke satuan tujuan $Y$ dilakukan dengan mengalikan nilai asal $x$ dengan angka $1$ yang menghasilkan satuan tujuaan
+
+$$
+x \ X = x \ X \  1 = x \ X \  \frac{Y}{X} = y \ Y
+$$
+
+
 ## notes
 1. <a name='ref1'></a>Metric Program, "Unit Conversion", National Institute of Standards and Technology, US Department of Commerce, 28 Sep 2021, url <https://www.nist.gov/pml/weights-and-measures/metric-si/unit-conversion> [20220702]
