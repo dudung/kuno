@@ -40,14 +40,10 @@ $$
 1 = \frac{Y}{X}
 $$
 
-yang keduanya memberikan nila satu.
+yang keduanya memberikan nilai satu.
 
 ## conversion
-Konversi dari satu satuan asal $X$ ke satuan tujuan $Y$ dilakukan dengan mengalikan nilai asal $x$ dengan angka $1$ yang menghasilkan satuan tujuaan
-
-$$
-x \ X = x \ X \  1 = x \ X \  \frac{Y}{X} = y \ Y
-$$
+Konversi dari satu satuan asal $X$ ke satuan tujuan $Y$ dilakukan dengan mengalikan nilai asal $x$ dengan angka $1$ yang menghasilkan satuan tujuaan.
 
 
 ## notes
