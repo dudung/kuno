@@ -5,10 +5,16 @@ Konversi suatu satuan menjadi satuan lain dapat memanfaatkan teknis analisis dim
 Terdapat suatu besaran fisis yang dapat memiliki nilai $x$ ataupun $y$ apabila dinyatakan dalam satuan berbeda $X$ atau $Y$. Nilai $x$ yang dinyatakan dalam satuan $X$ adalah sama dengan nilai $y$ yang dinyatakan dalam satuan $Y$, yang terhubung melalui
 
 $$
-\frac{y}{Y} = \frac{x}{X}
+\frac{y}{Y} = \frac{x}{X},
 $$
 
-yang menggambarkan nilai-nilai yang dinyatakan dalam satuannya masing-masing.
+yang menggambarkan nilai-nilai yang dinyatakan dalam satuannya masing-masing, dengan
+
+$$
+x \ X = y \  Y
+$$
+
+merupakan penulisan lazimnya.
 
 
 ## conversion factor
