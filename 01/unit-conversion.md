@@ -18,7 +18,7 @@ $$
 Substutsi rumusan faktor konversi $\textrm{CF}$ dalam persamaan sebelumnya akan memberikan
 
 $$
-\frac{x}{X} = \frac{y}{Y}
+\frac{y}{Y} = \frac{x}{X}
 $$
  yang menggambarkan nilai-nilai yang dinyatakan dalam satuannya masing-masing.
 
