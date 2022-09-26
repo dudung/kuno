@@ -3,7 +3,7 @@ texts, notes, scripts, codes kuno (have not been used)
 
 
 ## caution
-All histories are mixed up and repeated. Can not find a better way. Just copy without history.
+All histories are mixed up and repeated. Can not find a better way. Just copy without history. Let the old, not-used repos. Move forward and move on. Cannot govern everything.
 
 
 ## clone source repo to merge
