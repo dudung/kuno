@@ -52,7 +52,7 @@ To https://github.com/dudung/ele-phys
    800b599..9b2bd3d  main -> main
 ```
 
-## navigate to destination folder and rebase
+## navigate to destination folder, remote add, fetch, and rebase
 ```bash
 $ cd ../kuno
 
