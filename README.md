@@ -4,10 +4,14 @@ texts, notes, scripts, codes kuno
 =======
 # elementary-physics
 <<<<<<< HEAD
+<<<<<<< HEAD
 Elementary physics notes in Indonesian language with Markdown, SVG, and Mermaid.
 >>>>>>> 6a9965c (Initial commit)
 =======
 Elementary physics notes in Indonesian language with Markdown, Scalar Vector Graphics, and Mermaid.
+=======
+Notes on [Elementary physics](https://en.wikipedia.org/wiki/Outline_of_physics#General_concepts_of_physics) with [Markdown](https://www.markdownguide.org/), [Scalable Vector Graphics](https://developer.mozilla.org/en-US/docs/Web/SVG), and [Mermaid](https://mermaid-js.github.io/mermaid/), written in [Indonesian language](https://www.expat.or.id/info/historyofbahasaindonesia.html) and stored in [GitHub](https://github.com/) for you to [fork and clone](https://github.community/t/the-difference-between-forking-and-cloning-a-repository/10189).
+>>>>>>> 74201b3 (update)
 
 
 ## content
