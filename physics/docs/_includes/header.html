@@ -1,0 +1,37 @@
+<nav>
+	{% if page.mathjax %}
+		<span class="mathjax_true">MathJax</span>
+	{% else %}
+		<span class="inc_false">MathJax</span>
+	{% endif %}
+	
+	{% if page.chartjs %}
+		<span class="chartjs_true">Chart.js</span>
+	{% else %}
+		<span class="inc_false">Chart.js</span>
+	{% endif %}
+	
+	{% if page.ptext %}
+		<span class="ptext_true">pText</span>
+	{% else %}
+		<span class="inc_false">pText</span>
+	{% endif %}
+	
+	{% if page.x3dom %}
+		<span class="x3dom_true">X3DOM</span>
+	{% else %}
+		<span class="inc_false">X3DOM</span>
+	{% endif %}
+	
+	{% if page.threejs %}
+		<span class="threejs_true">Three.js</span>
+	{% else %}
+		<span class="inc_false">Three.js</span>
+	{% endif %}
+	
+	{% if page.3dmol %}
+		<span class="_3dmol_true">3Dmol.js</span>
+	{% else %}
+		<span class="inc_false">3Dmol.js</span>
+	{% endif %}
+</nav>
