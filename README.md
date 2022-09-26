@@ -2,6 +2,10 @@
 texts, notes, scripts, codes kuno (have not been used)
 
 
+## caution
+All histories are mixed up and repeated. Can not find a better way. Just copy without history.
+
+
 ## clone source repo to merge
 ```bash
 $ git clone https://github.com/dudung/ele-phys
